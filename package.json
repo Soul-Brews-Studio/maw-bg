@@ -1,6 +1,6 @@
 {
   "name": "@maw/bg",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Run long commands in detached tmux; sample output non-destructively",
   "license": "MIT",
   "repository": "Soul-Brews-Studio/maw-bg",
